@@ -17,4 +17,6 @@ public class App extends Application {
         //初始化融云
         RongIM.init(this);
     }
+
+
 }
