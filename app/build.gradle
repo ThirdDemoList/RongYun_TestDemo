@@ -1,6 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        config {
+            keyAlias 'markshow'
+            keyPassword 'markshow'
+            storeFile file('C:/mark/Documents/GitHub/RongYun_TestDemo/app/rongyundemo.jks')
+            storePassword 'markshow'
+        }
+    }
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
@@ -20,9 +28,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-
-    sourceSets{
-        main{
+    sourceSets {
+        main {
             jni.srcDirs = []
             jniLibs.srcDirs = ['libs']
         }
@@ -36,5 +43,7 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
     testCompile 'junit:junit:4.12'
-    compile project(':IMKit')//融云第一步
+    compile project(':IMKit')
+    //融云第一步
+    compile project(':CallKit')
 }

@@ -1,17 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
     tools:context="demo.mark.com.rongyun_testdemo.MainActivity">
 
-    <TextView
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="请输入用户名..." />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="请输入密码..." />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        <Button
+            android:id="@+id/rc_btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="登陆"/>
+
+        <Button
+            android:id="@+id/rc_btn_regist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text= "注册"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/connect_wk"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
-</RelativeLayout>
+        android:layout_margin="10dp"
+        android:text="点击连接融云server(悟空）" />
+
+    <Button
+        android:id="@+id/connect_btt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="点击连接融云server（贝吉塔）" />
+
+    <Button
+        android:id="@+id/connect_xt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="点击连接融云server（希特）" />
+
+    <Button
+        android:id="@+id/connect_bk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="点击连接融云server（比克）" />
+
+    <Button
+        android:id="@+id/rc_conversation_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开启会话列表"/>
+
+    <Button
+        android:id="@+id/rc_conversation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开聊天室"/>
+
+</LinearLayout>

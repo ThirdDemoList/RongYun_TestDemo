@@ -28,7 +28,7 @@
 
     <application>
         <uses-library android:name="android.test.runner" />
-        <!-- imlib config begin -->
+        <!-- imlib config begin  把 meta-data RONG_CLOUD_APP_KEY替换成你的融云AppKey -->
         <meta-data
             android:name="RONG_CLOUD_APP_KEY"
             android:value="cpj2xarlc3zbn" />

@@ -84,7 +84,20 @@
         <activity
             android:name="io.rong.imkit.activity.CSLeaveMessageActivity"
             android:configChanges="orientation|keyboardHidden"
-            android:screenOrientation="portrait" /> <!-- imlib config begin -->
+            android:screenOrientation="portrait" /> <!-- 把从高德官网获取的 AppKey 添加到 meta-data 里 -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="6a3a2e97957c7ce7547f9d2e9e25a366" /> <!-- 此部分代码需要移植到您的 app 下的 manifest，并且 authorities 指定您的包名。例如：com.android.FileProvider -->
+        <!-- 否则使用拍照功能时，会崩溃 -->
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="demo.mark.com.rongyun_testdemo.FileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/rc_file_path" />
+        </provider> <!-- imlib config begin  把 meta-data RONG_CLOUD_APP_KEY替换成你的融云AppKey -->
         <meta-data
             android:name="RONG_CLOUD_APP_KEY"
             android:value="cpj2xarlc3zbn" />
