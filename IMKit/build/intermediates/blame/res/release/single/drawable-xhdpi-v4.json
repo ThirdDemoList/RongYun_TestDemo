@@ -476,12 +476,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\drawable-xhdpi\\rc_ic_bubble_no_left.9.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\rc_voice_unread.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\drawable-xhdpi\\rc_voice_unread.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\u1f637.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\drawable-xhdpi\\u1f637.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\rc_voice_unread.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\drawable-xhdpi\\rc_voice_unread.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\rc_conversation_list_empty.png",

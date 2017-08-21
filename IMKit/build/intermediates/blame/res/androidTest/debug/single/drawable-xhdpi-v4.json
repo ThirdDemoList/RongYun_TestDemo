@@ -300,12 +300,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_star_hover.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_else.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_file_icon_else.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f633.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f633.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_else.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_file_icon_else.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_audio_toggle_hover.png",
@@ -1328,12 +1328,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f494.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_send_voice_two.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_send_voice_two.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ad_list_file_checked.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ad_list_file_checked.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_send_voice_two.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_send_voice_two.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f628.png",

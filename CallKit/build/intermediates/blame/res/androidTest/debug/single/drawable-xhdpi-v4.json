@@ -116,12 +116,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_default_discussion_portrait.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_plugin_default.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_plugin_default.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f611.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f611.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_plugin_default.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_plugin_default.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_cs_button_bg.png",
@@ -188,12 +188,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_keyboard.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_bubble_no_left.9.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_bubble_no_left.9.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f3c0.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f3c0.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_bubble_no_left.9.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_bubble_no_left.9.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_send_voice_three.png",
@@ -248,40 +248,40 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_delete.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u270a.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u270a.png"
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_no.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_no.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voice_icon_right.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_voice_icon_right.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_no.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_no.png"
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u270a.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u270a.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_setting_friends_add.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_setting_friends_add.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_emoji_block.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_emoji_block.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ac_text_file_icon.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ac_text_file_icon.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_emoji_block.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_emoji_block.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f52b.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f52b.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ext_tab_add.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_tab_add.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f636.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f636.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ext_tab_add.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_tab_add.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ext_plugin_image_pressed.png",
@@ -356,12 +356,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_follow.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f47b.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f47b.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f3e1.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f3e1.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f47b.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f47b.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_default_portrait.png",
@@ -376,16 +376,16 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_def_rich_content.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f3b2.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f3b2.png"
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_public_service_menu_bg.9.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_public_service_menu_bg.9.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_setting_friends_delete.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_setting_friends_delete.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_public_service_menu_bg.9.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_public_service_menu_bg.9.png"
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f3b2.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f3b2.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_camera_hover.png",
@@ -504,12 +504,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f612.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_video.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_file_icon_video.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_mute_hover.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_mute_hover.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_video.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_file_icon_video.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_bubble_left.9.png",
@@ -648,16 +648,16 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_icon_checkbox_hover.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_btn_pub_service_follow_normal.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_pub_service_follow_normal.png"
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_rt_loc_other.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_rt_loc_other.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ext_location_marker.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_location_marker.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_rt_loc_other.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_rt_loc_other.png"
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_btn_pub_service_follow_normal.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_pub_service_follow_normal.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_bg_voice_popup.9.png",
@@ -696,12 +696,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_icon_input_video.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_volume_7.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_volume_7.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f609.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f609.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_volume_7.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_volume_7.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_cs_back_press.9.png",
@@ -1008,12 +1008,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f605.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_word.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_file_icon_word.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u23f3.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u23f3.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_word.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_file_icon_word.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_bubble_left_file.9.png",

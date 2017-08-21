@@ -348,12 +348,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\drawable-xhdpi\\rc_read_receipt_request_hover.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f437.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\drawable-xhdpi\\u1f437.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_fr_file_list_ad_icon_folder.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\drawable-xhdpi\\rc_fr_file_list_ad_icon_folder.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f437.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\drawable-xhdpi\\u1f437.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f60e.png",

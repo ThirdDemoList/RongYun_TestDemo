@@ -4,12 +4,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\layout\\rc_fr_public_service_search.xml"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_messagelist.xml",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\layout\\rc_fr_messagelist.xml"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_cs_item_single_choice.xml",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\layout\\rc_cs_item_single_choice.xml"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_messagelist.xml",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\layout\\rc_fr_messagelist.xml"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ext_plugin_grid_view.xml",
@@ -60,12 +60,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\layout\\rc_ext_indicator.xml"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_preview_fragment.xml",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\layout\\rc_item_preview_fragment.xml"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picsel_original.xml",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\layout\\rc_picsel_original.xml"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_preview_fragment.xml",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\src\\main\\res\\layout\\rc_item_preview_fragment.xml"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_location_message.xml",

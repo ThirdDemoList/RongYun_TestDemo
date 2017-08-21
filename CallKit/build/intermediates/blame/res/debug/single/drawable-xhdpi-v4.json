@@ -36,20 +36,20 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f601.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f381.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f381.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f64f.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f64f.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_btn_download_cancel.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_download_cancel.png"
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f381.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f381.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f61c.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f61c.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_btn_download_cancel.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_download_cancel.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u2601.png",
@@ -116,12 +116,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f37b.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f44d.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f44d.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ic_bubble_left_file.9.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_bubble_left_file.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f44d.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f44d.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_cs_admin_hover.png",
@@ -228,12 +228,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\src\\main\\res\\drawable-xhdpi\\rc_voip_minimize.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_cs_leave_message_bg.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_leave_message_bg.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f356.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f356.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_cs_leave_message_bg.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_leave_message_bg.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f62a.png",
@@ -348,12 +348,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u2614.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f62b.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f62b.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f608.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f608.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f62b.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f62b.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_notification_connecting.png",
@@ -504,12 +504,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_location_normal.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_btn_open_file_selected.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_open_file_selected.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f6b2.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f6b2.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_btn_open_file_selected.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_open_file_selected.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_voip_audio_answer.png",
@@ -540,12 +540,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f437.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_cs_back_icon.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_back_icon.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_cs_evaluate_plugin_hover.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_evaluate_plugin_hover.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_cs_back_icon.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_back_icon.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f339.png",
@@ -584,12 +584,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_grid_image_default.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u26bd.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u26bd.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_voice_input_toggle_hover.9.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_voice_input_toggle_hover.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u26bd.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u26bd.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_picsel_empty_pic.png",
@@ -628,12 +628,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_voice_normal.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ic_warning.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_warning.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_grid_camera.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_grid_camera.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ic_warning.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_warning.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ac_ram_icon.png",
@@ -660,12 +660,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f52b.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ic_volume_1.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_volume_1.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_voip_handfree_hover.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\src\\main\\res\\drawable-xhdpi\\rc_voip_handfree_hover.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ic_volume_1.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_volume_1.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_icon_admin_hover.png",
@@ -1112,12 +1112,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ac_audio_file_icon.png"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ext_realtime_default_avatar.png",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_realtime_default_avatar.png"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_cs_group_ok_disabled.png",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_group_ok_disabled.png"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rc_ext_realtime_default_avatar.png",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_realtime_default_avatar.png"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\u1f602.png",

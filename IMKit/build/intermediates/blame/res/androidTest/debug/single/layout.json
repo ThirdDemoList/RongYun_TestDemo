@@ -28,12 +28,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_cs_single_choice_layout.xml"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_picsel_preview.xml",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_picsel_preview.xml"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_fr_file_list.xml",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_fr_file_list.xml"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_picsel_preview.xml",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_picsel_preview.xml"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_base_conversation.xml",
@@ -144,12 +144,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_item_text_message_evaluate.xml"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_refresh_list_view.xml",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_refresh_list_view.xml"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_conversation.xml",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_item_conversation.xml"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_refresh_list_view.xml",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_refresh_list_view.xml"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_ext_indicator.xml",
