@@ -13,22 +13,23 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
+import demo.mark.com.rongyun_testdemo.db.Friend;
 import io.rong.imkit.RongIM;
 import io.rong.imkit.fragment.ConversationListFragment;
 import io.rong.imlib.RongIMClient;
 import io.rong.imlib.model.Conversation;
 import io.rong.imlib.model.UserInfo;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener, RongIM.UserInfoProvider {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     //悟空  18673668974
-    private static final String token1 = "jZWqutfI9lQ/bS8//udVyf+M+CgaVL90/jYefz1rGXLBBSUuiWGdDPOCrFe465a/liJUJb84klSP+/yW52wcZ93O0oY+/xne";
+    private static final String token1 = "PTN756h7DshRJ05jNZIZfaQdqRjXPxjRvvfA3+ePanzAzBIxT7Kg9+AnH7+IRqfXhgkSwIjSEssSdXtexbBaqqwUB6ghFEYt";
     //贝吉塔 18673668975
-    private static final String token2 = "DmCpNDTIQyUBL9Gsod9OrqQdqRjXPxjRvvfA3+ePanzAzBIxT7Kg951Xgh4t6epiY49Gzg18QysSdXtexbBaqhP7gsS83ua/";
+    private static final String token2 = "5XkgJVCwx26gxXzd4iobIf+M+CgaVL90/jYefz1rGXLBBSUuiWGdDGMW4dot1d8fXe8YAHUdNi+P+/yW52wcZ75RIvnbe2FK";
     //希特 18673668976
-    private static final String token3 = "71FftNZ59Hzp+vfbe7dUyv+M+CgaVL90/jYefz1rGXLBBSUuiWGdDPFQX8ILkFY/sxhHeYvSqZ6P+/yW52wcZ1XMkgji4bqH";
+    private static final String token3 = "cvNCXeddIrPDzXzefQStIaQdqRjXPxjRvvfA3+ePanzAzBIxT7Kg93AUODUYrZbbWX68OpMOv3kSdXtexbBaqk26osytl8E1";
     //希特 18673668977
-    private static final String token4 = "juRj7QOk55XjoBl9zDty2P+M+CgaVL90/jYefz1rGXLBBSUuiWGdDMumd4AAl5lG7a/UvTxSzf2P+/yW52wcZx7PEBPYtRyn";
+    private static final String token4 = "IZEXNgMvIxk2kvcCxml0N8LT+pQFu7N+egPdN9Va1Qft3FjGI6N1vO7JphEPspdvATIg7OXnV0SJZh1oZ+yBX6RLwRniBQeF";
 
     private List<Friend> userIdList;
     private static final String TAG = "MainActivity";
@@ -142,25 +143,32 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         userIdList.add(new Friend("18673668975", "贝吉塔", "http://pic1.win4000.com/pic/e/f1/4fb01408746.jpg"));//贝吉塔图标
         userIdList.add(new Friend("18673668976", "希特", "http://imgsrc.baidu.com/forum/w%3D580/sign=eefd92535082b2b7a79f39cc01accb0a/994fbd4bd11373f0cdbb65c8ad0f4bfbfaed04e8.jpg"));//希特图标
         userIdList.add(new Friend("18673668977", "比克", "http://pic1.win4000.com/pic/f/63/088a1410587.jpg"));//比克图标
-//        userIdList.add(new Friend("KEFU144542424649464","海马客服","http://img02.tooopen.com/Download/2010/5/22/20100522103223994012.jpg"));
-        RongIM.setUserInfoProvider(this, true);
+        userIdList.add(new Friend("KEFU144542424649464","海马客服","http://img02.tooopen.com/Download/2010/5/22/20100522103223994012.jpg"));
+//        RongIM.setUserInfoProvider(this, true);
+         /**
+          * 设置用户信息的提供者，供 RongIM 调用获取用户名称和头像信息。
+          * */
+         RongIM.setUserInfoProvider(new RongIM.UserInfoProvider() {
+
+             /**
+              * 用户信息的提供者
+              *
+              * 融云会话界面 和 会话列表的 头像 昵称展示
+              * */
+             @Override
+             public UserInfo getUserInfo(String userId) {
+                 for (Friend i : userIdList) {
+                     if (i.getUserId().equals(userId)) {
+                         Log.e(TAG, i.getPortraitUri());
+                         //根据 userId 去你的用户系统里查询对应的用户信息返回给融云 SDK。
+                         return new UserInfo(i.getUserId(), i.getName(),Uri.parse(i.getPortraitUri()));
+                     }
+                 }
+                 Log.e("MainActivity", "UserId is : " + userId);
+                 return null;
+             }
+
+         },true);
     }
-
-    /**
-     * 头像设置用到融云的方法
-     * */
-    @Override
-    public UserInfo getUserInfo(String s) {
-
-        for (Friend i : userIdList) {
-            if (i.getUserId().equals(s)) {
-                Log.e(TAG, i.getPortraitUri());
-                return new UserInfo(i.getUserId(), i.getName(), Uri.parse(i.getPortraitUri()));
-            }
-        }
-        Log.e("MainActivity", "UserId is : " + s);
-        return null;
-    }
-
 
 }

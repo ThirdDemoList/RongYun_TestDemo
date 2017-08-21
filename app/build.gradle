@@ -3,9 +3,9 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'markshow'
+            keyAlias 'mark'
             keyPassword 'markshow'
-            storeFile file('C:/mark/Documents/GitHub/RongYun_TestDemo/app/rongyundemo.jks')
+            storeFile file('rongyundemo.jks')
             storePassword 'markshow'
         }
     }
@@ -43,7 +43,14 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
     testCompile 'junit:junit:4.12'
+    //融云集成所需要的sdk包
+    //    compile 'cn.rongcloud.android:IMLib:2.8.6'
+    //    compile 'cn.rongcloud.android:IMKit:2.8.6'
+    //    compile 'cn.rongcloud.android:CallLib:2.8.6'
+    //    compile 'cn.rongcloud.android:CallKit:2.8.6'
     compile project(':IMKit')
     //融云第一步
     compile project(':CallKit')
+    //融云第二步
+    compile files('libs/greendao-1.3.7.jar')
 }
