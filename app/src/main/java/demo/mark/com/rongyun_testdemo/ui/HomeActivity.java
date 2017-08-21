@@ -1,4 +1,4 @@
-package demo.mark.com.rongyun_testdemo;
+package demo.mark.com.rongyun_testdemo.ui;
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -12,6 +12,7 @@ import android.widget.ImageView;
 import java.util.ArrayList;
 import java.util.List;
 
+import demo.mark.com.rongyun_testdemo.R;
 import io.rong.imkit.fragment.ConversationListFragment;
 import io.rong.imlib.model.Conversation;
 

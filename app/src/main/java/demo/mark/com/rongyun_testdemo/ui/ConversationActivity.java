@@ -1,10 +1,11 @@
-package demo.mark.com.rongyun_testdemo;
+package demo.mark.com.rongyun_testdemo.ui;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.text.TextUtils;
 import android.widget.TextView;
 
+import demo.mark.com.rongyun_testdemo.R;
 import io.rong.imkit.RongIM;
 
 /**

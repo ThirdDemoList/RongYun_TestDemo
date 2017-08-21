@@ -51,7 +51,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".ui.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -61,7 +61,7 @@
 
         <!--会话界面-->
         <activity
-            android:name=".ConversationActivity"
+            android:name=".ui.ConversationActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize">
             <intent-filter>
@@ -79,7 +79,7 @@
         <!--会话列表-->
         <!--会话列表-->
         <activity
-            android:name=".ConversationListActivity"
+            android:name=".ui.ConversationListActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize">
 
@@ -95,7 +95,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".HomeActivity" />
+        <!--其实这个版本的回话列表是嵌套在这里的viewpager中的fragment-->
+        <activity android:name=".ui.HomeActivity" />
 
         <!--自定义广播通知-->
         <receiver

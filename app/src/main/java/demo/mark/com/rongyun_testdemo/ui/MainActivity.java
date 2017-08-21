@@ -1,8 +1,7 @@
-package demo.mark.com.rongyun_testdemo;
+package demo.mark.com.rongyun_testdemo.ui;
 
 import android.content.Intent;
 import android.net.Uri;
-import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -13,11 +12,11 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
+import demo.mark.com.rongyun_testdemo.App;
+import demo.mark.com.rongyun_testdemo.R;
 import demo.mark.com.rongyun_testdemo.db.Friend;
 import io.rong.imkit.RongIM;
-import io.rong.imkit.fragment.ConversationListFragment;
 import io.rong.imlib.RongIMClient;
-import io.rong.imlib.model.Conversation;
 import io.rong.imlib.model.UserInfo;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
@@ -143,7 +142,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         userIdList.add(new Friend("18673668975", "贝吉塔", "http://pic1.win4000.com/pic/e/f1/4fb01408746.jpg"));//贝吉塔图标
         userIdList.add(new Friend("18673668976", "希特", "http://imgsrc.baidu.com/forum/w%3D580/sign=eefd92535082b2b7a79f39cc01accb0a/994fbd4bd11373f0cdbb65c8ad0f4bfbfaed04e8.jpg"));//希特图标
         userIdList.add(new Friend("18673668977", "比克", "http://pic1.win4000.com/pic/f/63/088a1410587.jpg"));//比克图标
-        userIdList.add(new Friend("KEFU144542424649464","海马客服","http://img02.tooopen.com/Download/2010/5/22/20100522103223994012.jpg"));
+        userIdList.add(new Friend("","海马客服","http://img02.tooopen.com/Download/2010/5/22/20100522103223994012.jpg"));
 //        RongIM.setUserInfoProvider(this, true);
          /**
           * 设置用户信息的提供者，供 RongIM 调用获取用户名称和头像信息。

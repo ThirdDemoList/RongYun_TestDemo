@@ -1,7 +1,9 @@
-package demo.mark.com.rongyun_testdemo;
+package demo.mark.com.rongyun_testdemo.ui;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+
+import demo.mark.com.rongyun_testdemo.R;
 
 /**
  * Created by mark on 2017/8/20.
