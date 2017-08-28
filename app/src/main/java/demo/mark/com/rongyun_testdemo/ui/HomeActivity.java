@@ -9,6 +9,8 @@ import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.githang.statusbar.StatusBarCompat;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -36,7 +38,7 @@ public class HomeActivity extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-
+        StatusBarCompat.setStatusBarColor(this,getResources().getColor(R.color.actionbar_bg));
         mConversationList = initConversationList();//获取融云会话列表的对象
         mViewPager = (ViewPager) findViewById(R.id.viewpager);
         iv_back_left = (ImageView)findViewById(R.id.iv_back_left);

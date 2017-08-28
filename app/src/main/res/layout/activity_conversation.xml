@@ -6,26 +6,79 @@
     android:orientation="vertical"
     tools:context=".ui.ConversationActivity">
 
-    <LinearLayout
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#fff">
+        android:layout_height="45dp"
+        android:background="@color/actionbar_bg">
+
+        <ImageView
+            android:id="@+id/iv_back_left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@mipmap/ic_launcher"/>
 
         <TextView
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical"
-            android:layout_margin="15dp"
             android:text="rongCloud"
+            android:layout_centerInParent="true"
             android:textSize="18sp" />
-    </LinearLayout>
+    </RelativeLayout>
 
-    <fragment
-        android:id="@+id/conversation"
-        android:name="io.rong.imkit.fragment.ConversationFragment"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:background="@color/coversation_bg">
+        <fragment
+            android:id="@+id/conversation"
+            android:name="io.rong.imkit.fragment.ConversationFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <RelativeLayout
+            android:layout_width="130dp"
+            android:layout_height="45dp"
+            android:background="@drawable/location_bg"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp">
+            <ImageView
+                android:id="@+id/iv_img_country"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_launcher"/>
+
+            <LinearLayout
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_toRightOf="@+id/iv_img_country"
+                android:gravity="center"
+                android:layout_marginLeft="10dp">
+                <TextView
+                    android:id="@+id/tv_time_local"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="3dp"
+                    android:text="05:30"
+                    android:textSize="14sp"
+                    android:textColor="#fff"/>
+                <TextView
+                    android:id="@+id/tv_country_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:textSize="14sp"
+                    android:text="美国"
+                    android:layout_marginBottom="3dp"
+                    android:textColor="#fff"/>
+            </LinearLayout>
+
+        </RelativeLayout>
+    </RelativeLayout>
+
 
 
 </LinearLayout>

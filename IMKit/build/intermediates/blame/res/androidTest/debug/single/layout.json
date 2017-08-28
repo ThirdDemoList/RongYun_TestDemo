@@ -352,12 +352,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_ac_file_download.xml"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_ac_file_list.xml",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_ac_file_list.xml"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_fr_public_service_search.xml",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_fr_public_service_search.xml"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_ac_file_list.xml",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_ac_file_list.xml"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_ext_plugin_grid_view.xml",

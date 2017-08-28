@@ -176,12 +176,12 @@
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable\\rc_cs_ratingbar.xml"
     },
     {
-        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_ed_public_service_search_selector.xml",
-        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable\\rc_ed_public_service_search_selector.xml"
-    },
-    {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_ext_plugin_image_selector.xml",
         "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable\\rc_ext_plugin_image_selector.xml"
+    },
+    {
+        "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_ed_public_service_search_selector.xml",
+        "source": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\exploded-aar\\RongYun_TestDemo\\IMKit\\unspecified\\res\\drawable\\rc_ed_public_service_search_selector.xml"
     },
     {
         "merged": "E:\\Documents\\GitHub\\RongYun_TestDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_switch_btn.xml",

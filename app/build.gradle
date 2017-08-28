@@ -52,4 +52,5 @@ dependencies {
     //融云第一步
     compile project(':CallKit')
     //融云第二步
+    compile 'com.githang:status-bar-compat:0.5.2'
 }
